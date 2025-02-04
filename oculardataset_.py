@@ -332,7 +332,7 @@ def process_and_display_images(test_folder, model, num_images=10):
         ax1.set_title('Ground Truth')
         ax1.axis('off')
 
-        # Use the plot method from results
+        #Use the plot method from results
         ax2.imshow(results[0].plot())
         ax2.set_title('Model Prediction')
         ax2.axis('off')
@@ -342,10 +342,10 @@ def process_and_display_images(test_folder, model, num_images=10):
 
         print(f"Displayed comparison for image: {img_name}")
 
-# Load your trained model
+#Load your trained model
 model = YOLO('/content/runs/detect/train2/weights/best.pt')
 
-# Directory containing your test images and labels folders
+#Directory containing your test images and labels folders
 test_dir = '/content/Villgro-8/test'
 
 # Process and display images
