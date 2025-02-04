@@ -444,8 +444,8 @@ def highlight_additional_predictions(test_folder, model, iou_threshold=0.5, num_
 # Load your trained model
 model = YOLO('/content/runs/detect/train2/weights/best.pt')
 
-# Directory containing your test images and labels folders
+#Directory containing your test images and labels folders
 test_dir = '/content/Villgro-8/test'
 
-# Run the new function
+#Run the new function
 highlight_additional_predictions(test_dir, model)
