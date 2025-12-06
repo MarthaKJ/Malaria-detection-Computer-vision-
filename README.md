@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow.svg)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green.svg)
-![DETR](https://img.shields.io/badge/Conditional_DETR-Microsoft-orange.svg)
+![DETR](https://img.shields.io/badge/Conditional_DETR-Microsoft-orange.svg )
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## 🎯 Project Overview
