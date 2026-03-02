@@ -1,4 +1,4 @@
-# Malaria Detection: Multi-Model Computer Vision Approach 🔬🤖
+#Malaria Detection: Multi-Model Computer Vision Approach 🔬🤖
 
 **A comprehensive research project comparing state-of-the-art object detection models for automated malaria parasite identification in blood smear microscopy**
 
